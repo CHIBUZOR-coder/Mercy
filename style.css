@@ -1,11 +1,29 @@
 body {
     background-color: rgb(211, 184, 236);
 
-    min-height: 200vh;
+
+}
+
+.mdn {
+    color: rgb(211, 184, 236);
+}
+
+
+
+
+
+img {
+    max-width: 100%;
 }
 
 /* 
-img {
-    min-height: 40vh;
-}
- */
+@media screen and (max-width:500px) {
+
+    .boo {
+        position: relative;
+    }
+
+    img {
+
+        background-size: contain;
+        /* left: 46%; */
