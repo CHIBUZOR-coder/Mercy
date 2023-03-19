@@ -9,7 +9,13 @@ body {
 }
 
 
+.tag {
+    color: #3f0a41;
+    position: relative;
+    margin: 0 15px;
+    text-decoration: none;
 
+}
 
 
 img {
